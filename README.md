@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Ciao, sono Domenico De Palo (MinguccioPigiamino)
 
-<!--
-**MinguccioPigiamino/MinguccioPigiamino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Full Stack Developer | 🐳 Docker Enthusiast | 📱 FlutterFlow Creator
 
-Here are some ideas to get you started:
+Benvenuto nel mio angolo di GitHub! Sono un appassionato sviluppatore con una vasta gamma di competenze nel mondo del web e del mobile development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologie e Strumenti
+
+- Frontend: HTML, CSS, JavaScript
+- Backend: PHP, Node.js
+- Mobile: FlutterFlow
+- DevOps: Docker
+
+### 🚀 Cosa sto facendo
+
+- 🔭 Attualmente sto lavorando su progetti web full-stack
+- 🌱 Sto continuamente migliorando le mie competenze in Docker e FlutterFlow
+- 👯 Sono aperto a collaborazioni su progetti interessanti
+
+### 📫 Come contattarmi
+
+- 📧 Email: domenico.dpd02@gmail.com
+- 💼 GitHub: [@MinguccioPigiamino](https://github.com/MinguccioPigiamino)
+
+### ⚡ Fun fact
+
+Il mio alias "MinguccioPigiamino" unisce la mia passione per la tecnologia con un tocco di umorismo italiano!
+
+---
+
+⭐️ From [MinguccioPigiamino](https://github.com/MinguccioPigiamino)
