@@ -15,7 +15,7 @@ Appassionato di tecnologia e sempre alla ricerca di nuove sfide nel mondo dello 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>&nbsp;&nbsp;
+<img src="https://avatars.githubusercontent.com/u/74943865?s=200&v=4" alt="flutterflow" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 </p>
 
