@@ -37,10 +37,9 @@ Appassionato di tecnologia e sempre alla ricerca di nuove sfide nel mondo dello 
 
 ### 📊 Le mie statistiche GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MinguccioPigiamino&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinguccioPigiamino&layout=compact&theme=radical"/>
-</p>
+![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=MinguccioPigiamino&show_icons=true&theme=radical)
+
+![Linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=MinguccioPigiamino&layout=compact&theme=radical)
 
 ---
 
